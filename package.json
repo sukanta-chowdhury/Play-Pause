@@ -1,0 +1,16 @@
+{
+  "name": "playandpause",
+  "version": "1.0.0",
+  "description": "It an video player, where you can upload your videos and everyone can watch it,like it,commenting on it and many more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "user",
+    "video",
+    "admin"
+  ],
+  "author": "Sukanta Chowdhury",
+  "license": "ISC"
+}
